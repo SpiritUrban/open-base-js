@@ -1,0 +1,26 @@
+{
+  "name": "open-base-js",
+  "version": "1.0.0",
+  "description": "Angular NodeJS Basic Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "tets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiritUrban/open-base-js.git"
+  },
+  "keywords": [
+    "angular",
+    "node",
+    "ndejs",
+    "basic",
+    "mean"
+  ],
+  "author": "Diachuk Vitalii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpiritUrban/open-base-js/issues"
+  },
+  "homepage": "https://github.com/SpiritUrban/open-base-js#readme"
+}
